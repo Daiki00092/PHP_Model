@@ -9,4 +9,4 @@
 ・staticでないプロパティの場合の記述</br>
  →this::$変数名</br>
  
- 
+ https://hacknote.jp/archives/26892/
